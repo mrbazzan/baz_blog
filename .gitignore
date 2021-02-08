@@ -1,0 +1,13 @@
+
+venv/
+instance/
+
+*.egg-info/
+
+.idea
+tests/
+
+requirements.txt
+
+*.pyc
+__pycache__/
