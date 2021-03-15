@@ -1,7 +1,5 @@
 
 # python treats this directory as a package
-# TODO    -set FLASK_APP=flaskr, set FLASK_ENV=development
-#      -run 'flask run' from base directory
 
 import os
 from flask import Flask, redirect, url_for

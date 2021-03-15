@@ -1,13 +1,20 @@
 
+.idea/
+
 venv/
 instance/
 
+dist/
+build/
 *.egg-info/
-
-.idea
-tests/
-
-requirements.txt
 
 *.pyc
 __pycache__/
+.pytest_cache/
+
+info.txt
+
+htmlcov/
+.coverage
+
+README.md
