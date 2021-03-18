@@ -1,2 +1,1 @@
-
-web: gunicorn app: flaskr
+web: waitress-serve flaskr:create_app
