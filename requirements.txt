@@ -4,7 +4,7 @@ click==7.1.2
 colorama==0.4.4
 coverage==5.5
 Flask==1.1.2
--e git+https://github.com/mrbazzan/baz_blog.git@72c10b8b28e92a0bd98d6e66d76e394601e428f7#egg=flaskr
+-e git+https://github.com/mrbazzan/baz_blog.git@ce36a98dcaa9c0543424f313e134c8645ff21c71#egg=flaskr
 gunicorn==20.0.4
 importlib-metadata==3.7.3
 iniconfig==1.1.1
@@ -13,6 +13,7 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 packaging==20.9
 pluggy==0.13.1
+psycopg2==2.8.6
 py==1.10.0
 pyparsing==2.4.7
 pytest==6.2.2
