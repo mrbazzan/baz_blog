@@ -3,20 +3,12 @@
 
 venv/
 instance/
-
-dist/
-build/
-*.egg-info/
-
-*.pyc
 __pycache__/
 .pytest_cache/
-
-info.txt
-
-bazblog/__main__.py
-
 htmlcov/
+
+*.egg-info/
+*.pyc
 .coverage
 
-README.md
+info.txt
