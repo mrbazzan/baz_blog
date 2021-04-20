@@ -1,7 +1,7 @@
 
 import sqlite3
 import pytest
-from flaskr.db import get_db
+from bazblog.db import get_db
 
 # test `load_logged_in_user, get_post`...
 

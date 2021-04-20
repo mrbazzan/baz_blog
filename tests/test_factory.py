@@ -1,5 +1,5 @@
 
-from flaskr import create_app
+from bazblog import create_app
 
 
 def test_config():

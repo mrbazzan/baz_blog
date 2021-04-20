@@ -1,6 +1,6 @@
 import pytest
 from flask import session, g
-from flaskr.db import get_db
+from bazblog.db import get_db
 
 # after each test function, the created temporary database is destroyed.
 # tests\conftest.py::14

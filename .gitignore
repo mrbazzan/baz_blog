@@ -14,7 +14,7 @@ __pycache__/
 
 info.txt
 
-flaskr/__main__.py
+bazblog/__main__.py
 
 htmlcov/
 .coverage
